@@ -15,5 +15,7 @@ def eliminar_productos():
      inventarion.append
      
      
-def ver_productos():
+def lista_productos(inventario)
+    for producto in inventario:
+        print(producto)
     
